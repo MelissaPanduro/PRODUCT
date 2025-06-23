@@ -1,4 +1,4 @@
-package pe.edu.vallegrande.vg_ms_product;
+package pe.edu.vallegrande.product;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

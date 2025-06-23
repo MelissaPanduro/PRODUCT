@@ -1,4 +1,4 @@
-package pe.edu.vallegrande.vg_ms_product;
+package pe.edu.vallegrande.product;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
