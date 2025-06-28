@@ -4,6 +4,6 @@ pe/edu/vallegrande/product/controller/ProductoRest.class
 pe/edu/vallegrande/product/ProductApplication.class
 pe/edu/vallegrande/product/model/ProductoModel$ProductoModelBuilder.class
 pe/edu/vallegrande/product/config/CustomAuthenticationToken.class
-pe/edu/vallegrande/product/config/SecurityConfig.class
 pe/edu/vallegrande/product/service/ProductoService.class
+pe/edu/vallegrande/product/config/SecurityConfig.class
 pe/edu/vallegrande/product/repository/ProductoRepository.class

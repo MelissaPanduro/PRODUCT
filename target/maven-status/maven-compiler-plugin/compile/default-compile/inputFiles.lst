@@ -1,7 +1,7 @@
-/workspaces/PRODUCT/src/main/java/pe/edu/vallegrande/product/model/ProductoModel.java
-/workspaces/PRODUCT/src/main/java/pe/edu/vallegrande/product/repository/ProductoRepository.java
-/workspaces/PRODUCT/src/main/java/pe/edu/vallegrande/product/controller/ProductoRest.java
-/workspaces/PRODUCT/src/main/java/pe/edu/vallegrande/product/service/ProductoService.java
-/workspaces/PRODUCT/src/main/java/pe/edu/vallegrande/product/config/SecurityConfig.java
-/workspaces/PRODUCT/src/main/java/pe/edu/vallegrande/product/ProductApplication.java
-/workspaces/PRODUCT/src/main/java/pe/edu/vallegrande/product/config/CustomAuthenticationToken.java
+/workspace/PRODUCT/src/main/java/pe/edu/vallegrande/product/controller/ProductoRest.java
+/workspace/PRODUCT/src/main/java/pe/edu/vallegrande/product/service/ProductoService.java
+/workspace/PRODUCT/src/main/java/pe/edu/vallegrande/product/repository/ProductoRepository.java
+/workspace/PRODUCT/src/main/java/pe/edu/vallegrande/product/config/CustomAuthenticationToken.java
+/workspace/PRODUCT/src/main/java/pe/edu/vallegrande/product/config/SecurityConfig.java
+/workspace/PRODUCT/src/main/java/pe/edu/vallegrande/product/ProductApplication.java
+/workspace/PRODUCT/src/main/java/pe/edu/vallegrande/product/model/ProductoModel.java
